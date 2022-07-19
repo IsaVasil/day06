@@ -1,0 +1,32 @@
+tee-zapisvane na stoinosti v file
+diff-pokazva razlikite mejdu dva fila
+()-otvarqne na drug shell
+<() se vijda kato izhod na file
+regex
+"6ablon" patern za simvolni nizove
+grep -tyrsi navsqkyde
+.- wseki simvol pri grep
+^-na4alo na tyrsene pri grep
+$-krai na tyrsene pri grep
+flex i bizon - za syzadavane na ezik i intepretator
+"^..&" [A-Z] [0-9] i drugi primeri
+*-pokazva 4e simvola moje da se izpolzva mnogokratno a*
++-kato pri zvezdata no trqbva pone vednyj da imame izbraniq simvol a+
+?-samo pri edin znak ili bez znak a?
+{symbol} - kolko pyti iskame da ima dadeniq simvol M{2}s toest tyrsime dadeniq simvol 2 pyti M
+imame variant kydeto moje da izbirame ot kolko do kolko simvoli iskame {symbol,symbol} primer M{2,5}S
+ako ne poso4im daden symvol stava do bezkrinost ot-do
+|-operator ili aaa|bbb
+\-za escape
+less i more -pagers dopylnitelni filove v koito moje prosto da si razglejdame sydyrjanieto
+cut - vzimame simvoli ot file
+
+gcc -E main.c -o main.i
+gcc -S main.i -o main.s
+gcc -c main.s -o main.o
+
+razdelno kompilirane
+
+g++ - c++
+bash -bash
+python3 - python
